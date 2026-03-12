@@ -1,3 +1,5 @@
 a = input("Enter a name :")
 b = int(input("Enter a age :"))
-print("Name:", a, "and Age:", b)
+c = input("Enter gender :")
+
+print("Name:", a, "and Age:", b, "and Gender:", c)
